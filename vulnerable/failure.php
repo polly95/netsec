@@ -1,4 +1,4 @@
 <html>
-<h1>Lucky you! But r u really... ;)</h1>
-<img width="700px" src="meme.jpg"/>
+<h1>Yes, u logged in succesfully! But do u find any useful information here?... ;O</h1>
+<img width="600px" src="meme.png"/>
 </html>
